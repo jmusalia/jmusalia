@@ -4,11 +4,6 @@ I am a Professor of Sociology at the [Department of Sociology and Criminology](h
 
 ### Education
 * **PhD** in _Sociology_, Indiana University (2000)
-
-![](https://www.wku.edu/marketingandcommunications/images/wkucupbox_r.jpg)
-
-
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
