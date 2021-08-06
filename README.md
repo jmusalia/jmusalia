@@ -10,7 +10,6 @@ _Health, Social Capital, Gender, Household Decision-Making, Orphahood, Developme
 
 ### Teaching Interests
 _Applied Statistics, Sociology of Globalization, Social Change, Data Analysis and Visualization_
-### Hi there 👋
 
 <!--
 **jmusalia/jmusalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
